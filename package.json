@@ -1,0 +1,13 @@
+{
+  "name": "yap-economy-bot",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Yap++ Bucks economy bot for Yapper",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
